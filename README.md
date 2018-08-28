@@ -1,1 +1,1 @@
-# Hangman
+Play Hangman
